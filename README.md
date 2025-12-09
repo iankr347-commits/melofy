@@ -1,3 +1,8 @@
-#Melofy — Next-Gen Music Experience
+# melofy
 
-Melofy is a modern, fast, and beautifully designed music application built with Flutter and Supabase, featuring smart search, real-time lyrics, and a clean user experience.
+Building a smarter, faster, and more personal way to enjoy music.
+
+melofy aims to deliver a highly-personalized music experience by combining fast search, smart recommendations, and a clean listening interface. This README provides an overview, quickstart instructions, development notes, and contribution guidelines to help you get started.
+
+---
+
